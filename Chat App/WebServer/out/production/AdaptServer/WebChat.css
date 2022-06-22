@@ -1,0 +1,22 @@
+div{
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+button{
+    background-color: white;
+    border-color: #1982FC;
+    border-radius: 25px;
+}
+
+#chatDiv{
+    overflow-x: auto;
+    word-wrap: break-word;
+    overflow-y: scroll;
+}
+
+span{
+    text-align: center;
+}
+
+

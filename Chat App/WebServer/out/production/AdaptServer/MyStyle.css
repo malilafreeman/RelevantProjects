@@ -1,0 +1,41 @@
+body {
+
+text-align: center;
+background-color: #B2AC88;
+
+}
+
+ul {
+text-align: left;
+color: black;
+
+}
+
+ol li {
+text-align: left;
+color: black;
+}
+
+a {
+
+color: #006400;
+
+}
+
+a:hover {
+color: #000000;
+
+}
+
+h2 {
+text-align: center;
+color: #565e49;
+
+}
+
+h3 {
+text-align: left;
+color: black;
+font-style: italic;
+
+}

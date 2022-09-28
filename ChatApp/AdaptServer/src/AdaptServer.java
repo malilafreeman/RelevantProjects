@@ -27,6 +27,7 @@ public class AdaptServer {
         }
         catch (SocketException e){
             System.out.println("Unable to open socket.");
+            System.out.println(e.getMessage());
             System.exit(-1);
         }
 
